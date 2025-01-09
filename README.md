@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilshinde9250&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilshinde9250" /> </p>
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 I’m currently working on **Treading platForm**
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://nikhil-shinde-portfolio.netlify.app/](https://nikhil-shinde-portfolio.netlify.app/)
 
